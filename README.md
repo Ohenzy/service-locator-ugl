@@ -10,7 +10,7 @@
 ### **Via Git URL (Unity Package Manager)**
 1. Open **Package Manager** → **Add package from git URL** → Paste:<br>
 ```md
-git clone https://github.com/Ohenzy/service-locator-ugl.git?path=/Assets/Scripts/ServiceLocator/#v1.0.0
+https://github.com/Ohenzy/service-locator-ugl.git?path=/Assets/Scripts/ServiceLocator/#v1.0.0
 ```
 
 2. Click **Add**.
